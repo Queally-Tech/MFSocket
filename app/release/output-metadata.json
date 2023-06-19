@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.Android.MFSocket",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 114514,
+      "versionName": "666.999.6969",
+      "outputFile": "app-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
